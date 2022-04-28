@@ -1,0 +1,8 @@
+Constraints and Rules:
+1. Players do not need to throw a 6 on dice to qualify at the begining of the game.
+2. The game will begin with any dice value.
+3. If a 6(six) is appeared then a chance is awarded to that player.
+4. Snakes:- 97 to  12, 89 to 53, 73 to 47, 70 to 25, 32 to 13, 63 to 3.
+5. Ladder:- 50 to  83, 60 to 84, 14 to 42, 6 to 16, 8 to 41, 26 to 29.
+6. 2 boards are used to show the players current position
+7. when the players are in same position one board is used to show position
