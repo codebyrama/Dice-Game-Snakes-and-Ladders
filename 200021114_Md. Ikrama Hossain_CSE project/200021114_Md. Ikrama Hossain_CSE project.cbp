@@ -31,7 +31,20 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Rules.txt" />
+		<Unit filename="dice thrower.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gameplay.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="record.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rules.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
