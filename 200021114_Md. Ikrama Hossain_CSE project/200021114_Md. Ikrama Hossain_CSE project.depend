@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1651162678 source:c:\users\user\onedrive - iut-dhaka.edu\2nd semester\dice-game-snakes-and-ladders\200021114_md. ikrama hossain_cse project\dice thrower.c
+	<stdio.h>
+	<stdlib.h>
+
+1651162709 source:c:\users\user\onedrive - iut-dhaka.edu\2nd semester\dice-game-snakes-and-ladders\200021114_md. ikrama hossain_cse project\gameplay.c
+	<stdio.h>
+	<stdlib.h>
+
+1651162612 source:c:\users\user\onedrive - iut-dhaka.edu\2nd semester\dice-game-snakes-and-ladders\200021114_md. ikrama hossain_cse project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1651162747 source:c:\users\user\onedrive - iut-dhaka.edu\2nd semester\dice-game-snakes-and-ladders\200021114_md. ikrama hossain_cse project\record.c
+	<stdio.h>
+	<stdlib.h>
+
+1651162768 source:c:\users\user\onedrive - iut-dhaka.edu\2nd semester\dice-game-snakes-and-ladders\200021114_md. ikrama hossain_cse project\rules.c
+	<stdio.h>
+	<stdlib.h>
+
